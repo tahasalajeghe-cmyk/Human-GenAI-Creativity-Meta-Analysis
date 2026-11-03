@@ -1,0 +1,1 @@
+<simpleError in metafor::fsn(yi = d$g, vi = d$vi, type = "Rosenthal"): Argument 'x' must be a vector with estimates or an 'rma' model object.>

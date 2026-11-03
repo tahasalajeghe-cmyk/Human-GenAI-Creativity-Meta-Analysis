@@ -1,0 +1,2 @@
+﻿k,Egger_intercept,Egger_SE,Egger_t,Egger_df,Egger_p,Rosenthal_fail_safe_N,Duval_Tweedie_trimfill,warning
+26,1.6078337395496218,3.4015661977028366,0.47267454052060853,24,0.6407156505938599,1664,Calculated by R/metafor on script execution; not estimated in Python,Extreme heterogeneity; biases may be confounded with design and study selection
